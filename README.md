@@ -6,8 +6,6 @@ AdAgent plans, generates, evaluates, and revises campaigns under brand, audience
 
 面向广告业务的 Agent：在品牌、受众、预算和版位约束下生成、投放、评估并迭代广告素材。
 
-**Status:** Project scaffold · [Portfolio](https://0x0addc001.github.io/#use-cases)
-
 ## Agent loop
 
 | Stage | Responsibility |
